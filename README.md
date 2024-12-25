@@ -1,6 +1,6 @@
 # Stroke Prediction Models
 
-This project uses six different models to predict the occurrence of strokes based on various input features. The model is implemented in the [notebook file](https://github.com/timid-angel/co2-emissions-prediction-model/blob/master/Stroke%20Prediction.ipynb), with a detailed [report](https://github.com/timid-angel/co2-emissions-prediction-model/blob/master/Report.pdf).
+This project uses six different models to predict the occurrence of strokes based on various input features. The model is implemented in the [notebook file](https://github.com/timid-angel/stroke-prediction-model/blob/master/Stroke%20Prediction.ipynb), with a detailed [report](https://github.com/timid-angel/stroke-prediction-model/blob/master/Report.pdf).
 
 The dataset is imported from Kaggle, a complete overview of the dataset can be found on their [website](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/data).
 
